@@ -7,11 +7,9 @@ This project focuses on building a deep learning model capable of classifying pi
 ## 📁 Project Structure
 ```
 Skin-Lesions-Detection-
-│
-├── dataset/                 # Images used for training & testing
-├── notebooks/               # Jupyter notebooks for EDA, training & evaluation
-├── models/                  # Saved model weights
-├── src/                     # Python source code (preprocessing, training, prediction)
+│                # Images used for training & testing
+├── notebooks/               # Jupyter notebooks for EDA, training & evaluation                 # Saved model weights
+                   # Python source code (preprocessing, training, prediction)
 ├── results/                 # Accuracy, loss curves, confusion matrix, predictions
 └── README.md                # Project documentation
 ```
@@ -112,7 +110,3 @@ You may include visual outputs such as:
 ## 🙌 Contributions
 Feel free to fork the repository, improve model training, or add new architectures.
 
----
-
-## 📄 License
-Add your license information here (MIT, Apache, etc.).
